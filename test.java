@@ -1,5 +1,5 @@
 
-public class latihan{
+public class test{
 
     
     static void current_rasio(final float al, final float hl) {
